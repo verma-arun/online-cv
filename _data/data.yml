@@ -62,8 +62,8 @@ education:
 #         pretium quis, sem.
 #           - Bullet point
 #           - Bullet point
-    - diploma: Diploma in Computer Science
-      collage: Govt. Polytechnic Sirsa
+    - degree: Diploma in Computer Science
+      university: Govt. Polytechnic Sirsa
       time: 2011 - 2013
 #       details: |
 #         Describe your study here lorem ipsum dolor sit amet, consectetuer
