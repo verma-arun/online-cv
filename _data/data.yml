@@ -52,7 +52,7 @@ career-profile:
       Second paragraph if required.
 education:
     - degree: B.Tech. in Computer Science and Technology
-      university: Guru Jambheshwar University of Science and Technology
+      university: Guru Jambheshwar University of Science and Technology Hisar (Haryana)
       time: 2014 - 2017
 #       details: |
 #         Describe your study here lorem ipsum dolor sit amet, consectetuer
@@ -63,7 +63,7 @@ education:
 #           - Bullet point
 #           - Bullet point
     - degree: Diploma in Computer Science
-      university: Govt. Polytechnic Sirsa
+      university: Govt. Polytechnic Sirsa (Haryana)
       time: 2011 - 2013
 #       details: |
 #         Describe your study here lorem ipsum dolor sit amet, consectetuer
